@@ -6,3 +6,5 @@
 
  This project will be a basic construct of a HTML page
  featuring a resume
+
+Created Bio for README.
